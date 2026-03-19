@@ -1,7 +1,7 @@
 # <p align="center">Wilmore Dynamics</p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Wilmore-Dynamics/design/refs/heads/main/assets/logo-cream.svg" width="80" alt="Logo Wilmore Dynamics">
+  <img src="https://raw.githubusercontent.com/Wilmore-Dynamics/design/refs/heads/main/assets/logo-cream.svg" width="96" alt="Logo Wilmore Dynamics">
 </p>
 
 <p align="center">
@@ -17,19 +17,19 @@
 
 ---
 
-### 🛠️ L'Atelier (The Lab)
+### L'Atelier (The Lab)
 `// STATUS: ACTIVE`
-`// BUILD: 2024.03.V2`
+`// BUILD: 2026.03.V2`
 
 | Domaine | Technologies de Prédilection |
 | :--- | :--- |
-| **Infrastructure** | Hardened Debian, Proxmox, Docker, Kubernetes |
-| **Souveraineté** | Nextcloud, Bitwarden, Matrix, Element |
-| **Automation** | n8n, Ansible, CI/CD sur-mesure, Python |
+| **• Infrastructure** | Hardened Debian, Proxmox, Docker, Kubernetes |
+| **• Souveraineté** | Nextcloud, Bitwarden, Matrix, Element |
+| **• Automation** | n8n, Ansible, CI/CD sur-mesure, Python |
 
 ---
 
-### 📐 Principes Fondamentaux
+### Principes Fondamentaux
 
 > [!IMPORTANT]
 > **Zéro Dette Technique 2026**
@@ -41,7 +41,7 @@
 
 ---
 
-### 🧪 Projets en cours dans le Lab
+### Projets en cours dans le Lab
 - [ ] **Hardened Debian** : Scripts d'optimisation et de durcissement (V1.2).
 - [ ] **Sovereign Edge** : Architecture de micro-serveurs basse consommation.
 - [ ] **n8n Workflows** : Collection de templates pour l'automatisation souveraine.
@@ -49,5 +49,5 @@
 ---
 
 <p align="right">
-  <sub>© 2024 Wilmore Dynamics. Moins, mais mieux.</sub>
+  <sub>© 2026 Wilmore Dynamics. Moins, mais mieux.</sub>
 </p>
