@@ -1,7 +1,7 @@
 # <p align="center">Wilmore Dynamics</p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/votre-username/design/main/brand/logo.png" width="80" alt="Logo Wilmore Dynamics">
+  <img src="https://raw.githubusercontent.com/Wilmore-Dynamics/design/refs/heads/main/assets/logo.svg" width="80" alt="Logo Wilmore Dynamics">
 </p>
 
 <p align="center">
