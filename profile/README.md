@@ -17,7 +17,7 @@
 
 ---
 
-### L'Atelier (The Lab)
+### L'Atelier (Le Lab)
 `// STATUS: ACTIVE`
 `// BUILD: 2026.03.V2`
 
