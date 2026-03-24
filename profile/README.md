@@ -42,7 +42,7 @@
 ---
 
 ### Projets en cours dans le Lab
-- [ ] **Hardened Debian** : Scripts d'optimisation et de durcissement (V1.2).
+- [X] **Hardened Debian** : Scripts d'optimisation et de durcissement (V1.4.3).
 - [ ] **Sovereign Edge** : Architecture de micro-serveurs basse consommation.
 - [ ] **n8n Workflows** : Collection de templates pour l'automatisation souveraine.
 
